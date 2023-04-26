@@ -1,5 +1,8 @@
 # RememberMe
 
+RememberMe is a web application created with the Vue.js framework for the purpose of practicing its features. Its key functionality is the ability to create and store notes for future retrieval and review. However, it is important to note that all data is temporarily saved only in the memory and will be lost upon page reload.
+
+# Vue.js
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
